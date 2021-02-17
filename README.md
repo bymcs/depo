@@ -1,1 +1,1 @@
-// ana sitenin çalışması için gerekli dosyalar 
+bymcs.com and bymcs.xyz service files.
